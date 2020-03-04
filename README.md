@@ -1,5 +1,6 @@
 # ShareZza_conflit
 
+REMOTE
 
 Bonjour, je suis une note dans le README.
 
