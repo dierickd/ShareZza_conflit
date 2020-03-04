@@ -1,5 +1,6 @@
 # ShareZza_conflit
 
+LOCAL
 
 Bonjour, je suis une note dans le README.
 
